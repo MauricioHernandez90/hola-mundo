@@ -1,4 +1,4 @@
-# hola-mundo
+# hola mundo
 Mi primer repositorio
 
 Autor: Mauricio Hernández
